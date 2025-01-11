@@ -1,0 +1,7 @@
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\loops\bin\Debug\loops.exe.config
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\loops\bin\Debug\loops.exe
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\loops\bin\Debug\loops.pdb
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\loops\obj\Debug\loops.csproj.AssemblyReference.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\loops\obj\Debug\loops.exe
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\loops\obj\Debug\loops.pdb
