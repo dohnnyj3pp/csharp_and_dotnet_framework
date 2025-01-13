@@ -1,0 +1,7 @@
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\Module2ConsoleAppAssignment\bin\Debug\Module2ConsoleAppAssignment.exe.config
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\Module2ConsoleAppAssignment\bin\Debug\Module2ConsoleAppAssignment.exe
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\Module2ConsoleAppAssignment\bin\Debug\Module2ConsoleAppAssignment.pdb
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\Module2ConsoleAppAssignment\obj\Debug\Module2ConsoleAppAssignment.csproj.AssemblyReference.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\Module2ConsoleAppAssignment\obj\Debug\Module2ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\Module2ConsoleAppAssignment\obj\Debug\Module2ConsoleAppAssignment.exe
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\Module2ConsoleAppAssignment\obj\Debug\Module2ConsoleAppAssignment.pdb
