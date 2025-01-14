@@ -1,2 +1,7 @@
 C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
 C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\TwentyOne\obj\Debug\TwentyOne.pdb
