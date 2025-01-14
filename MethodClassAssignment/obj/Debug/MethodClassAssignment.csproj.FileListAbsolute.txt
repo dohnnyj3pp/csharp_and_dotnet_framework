@@ -1,0 +1,7 @@
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MethodClassAssignment\bin\Debug\MethodClassAssignment.exe.config
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MethodClassAssignment\bin\Debug\MethodClassAssignment.exe
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MethodClassAssignment\bin\Debug\MethodClassAssignment.pdb
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MethodClassAssignment\obj\Debug\MethodClassAssignment.csproj.AssemblyReference.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MethodClassAssignment\obj\Debug\MethodClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MethodClassAssignment\obj\Debug\MethodClassAssignment.exe
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MethodClassAssignment\obj\Debug\MethodClassAssignment.pdb
