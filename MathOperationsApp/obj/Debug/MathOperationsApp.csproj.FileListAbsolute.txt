@@ -1,0 +1,7 @@
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MathOperationsApp\bin\Debug\MathOperationsApp.exe.config
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MathOperationsApp\bin\Debug\MathOperationsApp.exe
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MathOperationsApp\bin\Debug\MathOperationsApp.pdb
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MathOperationsApp\obj\Debug\MathOperationsApp.csproj.AssemblyReference.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MathOperationsApp\obj\Debug\MathOperationsApp.csproj.CoreCompileInputs.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MathOperationsApp\obj\Debug\MathOperationsApp.exe
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MathOperationsApp\obj\Debug\MathOperationsApp.pdb
