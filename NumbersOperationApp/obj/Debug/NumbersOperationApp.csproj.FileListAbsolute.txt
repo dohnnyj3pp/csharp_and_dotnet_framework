@@ -1,0 +1,7 @@
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\NumbersOperationApp\bin\Debug\NumbersOperationApp.exe.config
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\NumbersOperationApp\bin\Debug\NumbersOperationApp.exe
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\NumbersOperationApp\bin\Debug\NumbersOperationApp.pdb
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\NumbersOperationApp\obj\Debug\NumbersOperationApp.csproj.AssemblyReference.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\NumbersOperationApp\obj\Debug\NumbersOperationApp.csproj.CoreCompileInputs.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\NumbersOperationApp\obj\Debug\NumbersOperationApp.exe
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\NumbersOperationApp\obj\Debug\NumbersOperationApp.pdb
