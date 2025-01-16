@@ -1,0 +1,7 @@
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe.config
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MethodsAndObjects\bin\Debug\MethodsAndObjects.pdb
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MethodsAndObjects\obj\Debug\MethodsAndObjects.exe
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MethodsAndObjects\obj\Debug\MethodsAndObjects.pdb
