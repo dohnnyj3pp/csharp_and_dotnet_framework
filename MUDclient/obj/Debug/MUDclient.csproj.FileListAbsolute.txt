@@ -1,0 +1,5 @@
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MUDclient\obj\Debug\MUDclient.csproj.AssemblyReference.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MUDclient\obj\Debug\MUDclient.Form1.resources
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MUDclient\obj\Debug\MUDclient.Properties.Resources.resources
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MUDclient\obj\Debug\MUDclient.csproj.GenerateResource.cache
+C:\Users\imada\OneDrive\Desktop\SCHOOL\csharp_and_dotnet_framework\MUDclient\obj\Debug\MUDclient.csproj.CoreCompileInputs.cache
